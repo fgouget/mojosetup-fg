@@ -4,7 +4,7 @@
 --
 -- DO NOT EDIT BY HAND.
 -- This file was generated with po2localization.pl, version ??? ...
---  on 2020-09-29 10:32:11+0200
+--  on 2020-09-29 11:40:24+0200
 --
 -- Your own installer's localizations go into app_localization.lua instead.
 -- If you want to add strings to be translated to this file, contact Ryan
@@ -583,7 +583,7 @@ MojoSetup.localization = {
         fa = "برای بازگشت به مرحله‌ی قبلی، %0 را تایپ کنید.",
         fi = "Kirjoita '%0' palataksesi edelliseen osioon.",
         fr = "Tapez '%0' pour revenir en arrière.",
-        ga = "Clóscríobh '% 0' dul ar ais.",
+        ga = "Clóscríobh '%0' dul ar ais.",
         he = "הקלד '%0' כדי לחזור חזרה.",
         hr = "Unesi '%0' za povratak.",
         hu = "Üss '%0'-t a visszalépéshez",
@@ -1312,7 +1312,7 @@ MojoSetup.localization = {
         fa = "باگ: '%0' یک رشته‌ی نامعتبر برای دسترسی است",
         fi = "OHJELMOINTIVIRHE: \"%0\" ei ole kelvollinen oikeuksia määrittävä merkkijono",
         fr = "BUG \"%0\" n'est pas une chaîne de permission valide",
-        ga = "FABHT:Níl '0%' ar shraith cead bailí",
+        ga = "FABHT:Níl '%0' ar shraith cead bailí",
         he = "באג: '%0' אינו מחרוזת הרשאה תקנית",
         hu = "BUG: '%0' nem érvényes jogosultság sztring",
         it = "BUG: '%0' non è una stringa valida di permessi",
@@ -1330,7 +1330,7 @@ MojoSetup.localization = {
         sl = "NAPAKA: '%0' ni velaven niz za dovoljenja",
         sv = "FEL: '%0' är inte en giltig rättighetssträng",
         tr = "HATA: '%0' geçerli bir izin dizgisi değil",
-        uk = "Помилка: '% 0' неправильне значення для прав.",
+        uk = "Помилка: '%0' неправильне значення для прав.",
         zh_TW = "臭蟲：'%0' 並不是有效的檔案權限設定"
     };
 
@@ -2387,7 +2387,7 @@ MojoSetup.localization = {
         en_GB = "bzlib triggered an internal error: %0",
         es = "bzlib ha provocado un error interno: %0",
         et = "bzlib vallandas sisevea: %0",
-        fa = "bzlib با خطایی درونی مواجه شد: 0%",
+        fa = "bzlib با خطایی درونی مواجه شد: %0",
         fi = "bzlib laukaisi sisäisen virheen: %0",
         fr = "bzlib a causé une erreur interne: %0",
         he = "bzlib העלה שגיאה פנימית: %0",
